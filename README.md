@@ -25,4 +25,4 @@
 	
 [Гиперссылки](http://github.com)
 
-![фото](https://i.imgur.com/qhtwl2.png)
+![фото](https://s1.1zoom.ru/big3/26/357022-svetik.jpg)
