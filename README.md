@@ -26,3 +26,10 @@
 [Гиперссылки](http://github.com)
 
 ![фото](https://s1.1zoom.ru/big3/26/357022-svetik.jpg)
+
+Строки кода:
+- inline: `строка кода`
+- Block: 
+```javascript
+console.log("");
+```
